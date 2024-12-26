@@ -21,7 +21,7 @@ To run the chat application, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/GUIChatMultiThreading.git
+    git clone https://github.com/yourusername/GUIChatServer.git
     ```
 
 2. Open the project in your favorite IDE (e.g., NetBeans).
